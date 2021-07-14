@@ -1,2 +1,7 @@
 ls
 pwd
+echo 'Hi Ram this is first demo from git'
+cd 
+pwd
+
+
